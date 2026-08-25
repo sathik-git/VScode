@@ -1,2 +1,2 @@
 testing
-branch 'fan'
+branch 'tablefan'
